@@ -1,7 +1,0 @@
-spring:
-   #application:
-      #name: ${SPRING_APPLICATION_NAME}
-
-# spring profile 設定
-   profiles:
-      active: ${SPRING_PROFILES_ACTIVE}
