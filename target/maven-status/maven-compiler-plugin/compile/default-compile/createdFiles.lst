@@ -1,0 +1,4 @@
+com/test/controller/GreetingController.class
+com/test/config/Application.class
+com/test/config/MvcConfig.class
+com/test/config/MicroServiceConfig.class
