@@ -5,7 +5,7 @@ then
 fi
 echo “SPRING_PROFILES_ACTIVE=${SPRING_PROFILES_ACTIVE}”
 
-export APP_LOG_FOLDER=/Users/peterhsu/IdeaProjects/logger
+export APP_LOG_FOLDER=~/logs/springBootTest/
 
 export SPRING_APPLICATION_NAME=springBootTest
 export LOGGING_LEVEL=INFO,DEBUG
